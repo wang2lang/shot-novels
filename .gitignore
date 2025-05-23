@@ -1,0 +1,13 @@
+# Logs
+logs
+*.local
+
+.idea
+.DS_Store
+
+invasion.md
+invasion.docx
+invasion.pdf
+
+/.trae
+/dist
